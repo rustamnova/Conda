@@ -1,0 +1,447 @@
+674644081018	geckodriver	INFO	Listening on 127.0.0.1:57987
+1674644084050	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofilezAZGPT"
+1674644156469	geckodriver	INFO	Listening on 127.0.0.1:58252
+1674644159526	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofileW2VbtO"
+1674644159875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644159880	Marionette	INFO	Listening on port 58263
+Read port: 58263
+1674644160182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileW2VbtO\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674644277091	Marionette	INFO	Stopped listening on port 58263
+Dynamically enable window occlusion 1
+[Parent 26788, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ed
+Dynamically enable window occlusion 0
+1674644272359	Marionette	INFO	Listening on port 59349
+Read port: 59349
+1674644272688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileClyVo8\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674644653041	Marionette	INFO	Stopped listening on port 59349
+Dynamically enable window occlusion 1
+1674644717819	geckodriver	INFO	Listening on 127.0.0.1:59681
+1674644720896	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofile8nCDVm"
+1674644721296	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644721301	Marionette	INFO	Listening on port 59691
+Read port: 59691
+1674644721607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofile8nCDVm\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674645105590	Marionette	INFO	Stopped listening on port 59691
+Dynamically enable window occlusion 1
+1674645134082	geckodriver	INFO	Listening on 127.0.0.1:61044
+1674645137136	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofilesIVOXt"
+1674645137504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645137509	Marionette	INFO	Listening on port 61054
+Read port: 61054
+1674645137816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofilesIVOXt\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674645205397	Marionette	INFO	Stopped listening on port 61054
+Dynamically enable window occlusion 1
+1674645804416	geckodriver	INFO	Listening on 127.0.0.1:61611
+1674645807483	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofilehh6IhO"
+1674645807828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645807836	Marionette	INFO	Listening on port 61623
+Read port: 61623
+1674645808157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofilehh6IhO\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1674646164117	Marionette	INFO	Stopped listening on port 61623
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofile0eGktx"
+1674646136609	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646136614	Marionette	INFO	Listening on port 62868
+Read port: 62868
+1674646136744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofile0eGktx\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://addons.mozilla.org."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674647315716	Marionette	INFO	Stopped listening on port 62868
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofiledO7nUO"
+1674646835110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646835115	Marionette	INFO	Listening on port 64378
+Read port: 64378
+1674646835425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofiledO7nUO\\search.json.mozlz4", (void 0)))
+1674646843371	Marionette	INFO	Stopped listening on port 64378
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674647287773	geckodriver	INFO	Listening on 127.0.0.1:64769
+1674647290822	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofileYpOOf2"
+1674647291241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674647291245	Marionette	INFO	Listening on port 64781
+Read port: 64781
+1674647291548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileYpOOf2\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674647527381	Marionette	INFO	Stopped listening on port 64781
+Dynamically enable window occlusion 1
+[Parent 21160, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ed
+Dynamically enable window occlusion 0
+1674647516848	Marionette	INFO	Listening on port 49563
+Read port: 49563
+1674647517107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofile0LRKom\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtoolsJavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1674648399746	Marionette	INFO	Stopped listening on port 49944
+Dynamically enable window occlusion 1
+basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674647850499	Marionette	INFO	Stopped listening on port 49563
+Dynamically enable window occlusion 1
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-58e3f778238ba83cbd59.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-58e3f778238ba83cbd59.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-58e3f778238ba83cbd59.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-58e3f778238ba83cbd59.css, using system principal instead."
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+1674648618340	geckodriver	INFO	Listening on 127.0.0.1:51665
+1674648621394	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofileGgMSjH"
+1674648621783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674648621788	Marionette	INFO	Listening on port 51675
+Read port: 51675
+1674648622104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileGgMSjH\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1674648861547	Marionette	INFO	Stopped listening on port 51675
+Dynamically enable window occlusion 1
+1674648913923	geckodriver	INFO	Listening on 127.0.0.1:51891
+1674648916983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofilemxqkSH"
+1674648917365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674648917371	Marionette	INFO	Listening on port 51905
+Read port: 51905
+1674648917708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofilemxqkSH\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1674649091463	Marionette	INFO	Stopped listening on port 51905
+Dynamically enable window occlusion 1
+528	Marionette	INFO	Listening on port 52019
+Read port: 52019
+1674648997649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileKETtIj\\search.json.mozlz4", (void 0)))
+1674649005367	Marionette	INFO	Stopped listening on port 52019
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 28608, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674649066510	geckodriver	INFO	Listening on 127.0.0.1:53072
+1674649069578	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofilewUeSUJ"
+1674649069888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674649069893	Marionette	INFO	Listening on port 53082
+Read port: 53082
+1674649069992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofilewUeSUJ\\search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2023-01-25T12:26:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:31:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-25T12:31:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.firefox.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.firefox.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.firefox.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.firefox.com."
+console.error: "Error updating FxA account info: Error: A different user signed in"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mozilla.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.firefox.com."
+1674715634598	Sync.ErrorHandler	ERROR	Sync encountered an error: TypeError: url is undefined(resource://services-sync/record.js:410:16) JS Stack trace: get@record.js:410:16
+_remoteSetup@service.js:1117:41
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+logger initialized
+
+1674715695027	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674715698840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resourceJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[2023-01-27T13:15:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-27T13:15:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 18200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+[Parent 18200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+[2023-01-27T18:37:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 18200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+[Parent 18200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+1674850945095	Marionette	INFO	Stopped listening on port 53082
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
